@@ -1,0 +1,54 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   21.21.13.7270
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.153 seconds
+Platform assembly: C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rscar\Documents\Development\LD37\Builds\TheNights_LD37_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.061107 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.664642 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 325.
+Total: 0.184241 ms (FindLiveObjects: 0.017583 ms CreateObjectMapping: 0.022424 ms MarkObjects: 0.139901 ms  DeleteObjects: 0.004077 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.693337 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 682.
+Total: 0.565210 ms (FindLiveObjects: 0.067019 ms CreateObjectMapping: 0.084093 ms MarkObjects: 0.407471 ms  DeleteObjects: 0.004841 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.672748 ms
+
+Unloading 374 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.456398 ms (FindLiveObjects: 0.048927 ms CreateObjectMapping: 0.030834 ms MarkObjects: 0.252025 ms  DeleteObjects: 0.123846 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.501758 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 683.
+Total: 0.497171 ms (FindLiveObjects: 0.035421 ms CreateObjectMapping: 0.035676 ms MarkObjects: 0.419448 ms  DeleteObjects: 0.006115 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 174c -> priority: 1 
+  Thread -> id: 34f0 -> priority: 1 
